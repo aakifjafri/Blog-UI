@@ -1,0 +1,24 @@
+/* .post {
+  background-color: whitesmoke;
+} */
+
+.post {
+  font-size: 16px;
+  color: #000;
+  padding-top: 20px;
+}
+
+.blog-title {
+  color: mediumseagreen;
+  text-align: center;
+}
+
+span > p {
+  text-align: center;
+}
+
+.post {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #000;
+}

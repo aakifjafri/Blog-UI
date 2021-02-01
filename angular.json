@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "blog-ui"
+  "defaultProject": "blog-ui",
+  "cli": {
+    "analytics": false
+  }
 }
